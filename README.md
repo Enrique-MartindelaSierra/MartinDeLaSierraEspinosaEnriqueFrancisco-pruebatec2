@@ -24,7 +24,7 @@ TurnManager es una aplicación para gestionar turnos y ciudadanos.
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/TurnManager.git
+   git clone https://github.com/Enrique-MartindelaSierra/MartinDeLaSierraEspinosaEnriqueFrancisco-pruebatec2.git
 
 2. Importa el proyecto en tu entorno de desarrollo preferido (por ejemplo, Eclipse, IntelliJ).
 
