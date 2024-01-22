@@ -37,12 +37,12 @@ TurnManager es una aplicación para gestionar turnos y ciudadanos.
 `src/main/webapp:` Contiene archivos JSP y recursos web.
 
 ### Uso
-1. Accede a la Aplicación: 
+1.  #### Accede a la Aplicación: 
 - Accede a la aplicación desde tu navegador.
 
-2. Identificate como Ciudadano:
+2. #### Identificate como Ciudadano:
 - Registra a los ciudadanos y personaliza el entorno a ello.
 
-3. Gestión de Turnos:
+3. #### Gestión de Turnos:
 - Programa y gestiona turnos.
 - Filtra, edita y elimina turnos.
